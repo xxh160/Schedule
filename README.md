@@ -1,5 +1,10 @@
 # Powerful Schedule
 
+![1](https://img.shields.io/github/issues/xxh160/Schedule)
+![2](https://img.shields.io/github/stars/xxh160/Schedule)
+![3](https://img.shields.io/github/forks/xxh160/Schedule)
+![4](https://img.shields.io/github/license/xxh160/Schedule)
+
 通过Java FX实现的课程表。
 
 期望实现的功能有：
